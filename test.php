@@ -12,7 +12,7 @@ if (subtract(10, 5) !== 5) {
     exit(1);
 }
 
-if (multiply(10, 7) !== 50) {
+if (multiply(10, 8) !== 50) {
     echo "Multiplication test failed";
     exit(1);
 }
