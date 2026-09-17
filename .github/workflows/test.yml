@@ -2,8 +2,7 @@ name: PHP Tests
 
 on:
   push:
-    branches:
-      - main
+    
 
 jobs:
   test:
