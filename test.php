@@ -12,4 +12,9 @@ if (subtract(10, 5) !== 5) {
     exit(1);
 }
 
+if (multiply(10, 5) !== 50) {
+    echo "Multiplication test failed";
+    exit(1);
+}
+
 echo "All tests passed\n";
